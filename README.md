@@ -1,1 +1,4 @@
-# fall2020lesson1
+# fall2020lesson
+
+HELLO GIT!!!
+
